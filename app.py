@@ -1,1 +1,1 @@
-print("qwert")
+print("qwerty")
